@@ -82,7 +82,7 @@ Due to Kaggle API issues, the final evaluation was conducted locally using `reve
 - ✅ **Modular Pipeline:** Supports per-window predictions
 
 ---
-
+```
 ## 📁 Project Structure
 optiver-trading-at-the-close-predictive-modeling/
 ├── data/ # Raw and processed input files
@@ -91,7 +91,7 @@ optiver-trading-at-the-close-predictive-modeling/
 ├── outputs/ # Submission files, logs, MAE reports
 ├── utils/ # Custom feature engineering scripts
 └── README.md # Project documentation
-
+```
 ---
 
 ## 👥 Team
